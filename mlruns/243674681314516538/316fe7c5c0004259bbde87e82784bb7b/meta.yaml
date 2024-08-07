@@ -1,0 +1,16 @@
+artifact_uri: file:///content/drive/MyDrive/alphaapps/mlruns/243674681314516538/316fe7c5c0004259bbde87e82784bb7b/artifacts
+deleted_time: 1723055265307
+end_time: 1723054478435
+entry_point_name: ''
+experiment_id: '243674681314516538'
+lifecycle_stage: deleted
+run_id: 316fe7c5c0004259bbde87e82784bb7b
+run_name: distilbert-basic
+run_uuid: 316fe7c5c0004259bbde87e82784bb7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723054478342
+status: 4
+tags: []
+user_id: root

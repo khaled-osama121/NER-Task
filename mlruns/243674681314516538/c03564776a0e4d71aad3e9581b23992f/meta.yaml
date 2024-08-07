@@ -1,0 +1,16 @@
+artifact_uri: file:///content/drive/MyDrive/alphaapps/mlruns/243674681314516538/c03564776a0e4d71aad3e9581b23992f/artifacts
+deleted_time: 1723060081752
+end_time: 1723059128371
+entry_point_name: ''
+experiment_id: '243674681314516538'
+lifecycle_stage: deleted
+run_id: c03564776a0e4d71aad3e9581b23992f
+run_name: bert-basic
+run_uuid: c03564776a0e4d71aad3e9581b23992f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723059075591
+status: 4
+tags: []
+user_id: khaled

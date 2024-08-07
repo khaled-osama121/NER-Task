@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/alphaapps/mlruns/243674681314516538/636a924219be4fecb5209d16761cb687/artifacts
+end_time: 1723054411575
+entry_point_name: ''
+experiment_id: '243674681314516538'
+lifecycle_stage: active
+run_id: 636a924219be4fecb5209d16761cb687
+run_name: bert-basic
+run_uuid: 636a924219be4fecb5209d16761cb687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723053745128
+status: 3
+tags: []
+user_id: root
